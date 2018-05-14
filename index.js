@@ -5,3 +5,6 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return array;
 }
+
+const facts = [
+  "He was the last Beatle to "]
